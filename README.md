@@ -213,7 +213,7 @@ Built following Anthropic's [Agent Skills](https://www.anthropic.com/news/skills
 
 ---
 
-**Version**: 1.0.0  
+**Version**: 1.0
 **Last Updated**: October 2025  
 **Compatibility**: Claude Sonnet 4.5 and above
 
